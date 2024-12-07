@@ -1,0 +1,20 @@
+.garis-atas {
+    width: 500px;
+    text-align: start;
+    margin-left: 0;
+    margin-top: 30px;
+    height: 3px;
+    border: none;
+    background-color: #333;
+
+}
+
+.hijau {
+
+    color: green;
+  
+}
+
+.biru {
+    color: blue;
+}
